@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872431474705",
+    "project_id": "smart-talk-molz",
+    "storage_bucket": "smart-talk-molz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872431474705:android:1840fd4a3011afd55639b0",
+        "android_client_info": {
+          "package_name": "com.timelessfusionapps.smart_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872431474705-rf7e0dq9d39pq3gqgibq4j35kcn127uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicQi9Kw2je598NNHnBl5Rjt-8rqY6QNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872431474705-rf7e0dq9d39pq3gqgibq4j35kcn127uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
